@@ -16,5 +16,6 @@ def write_todos(todos_arg, filepath=FILEPATH):
 
 
 if __name__ == "__main__":
+    # Only executes if functions.py executes correctly
     print("Hello")
     print(get_todos())
